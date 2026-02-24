@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #F9F9F9;
 }
 /* Mobile first 640px*/
 .container{
@@ -19,7 +20,8 @@ body {
     padding-top: 16px;
     padding-left: 16px;
     padding-right: 16px;
-    box-shadow: 5px 5px 12px #F2EAFD;
+    box-shadow: 5px 5px 12px #dddcdd;
+    background-color: #fcfcfc;
     width: 368px;
 }
 .imagem{
